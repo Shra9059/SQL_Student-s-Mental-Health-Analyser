@@ -1,28 +1,6 @@
-#Student Mental Health Analyser
-Background:
-A comprehensive study conducted by a Korean international university in 2018, and published in 2019 after approval by multiple ethical and regulatory boards, highlighted significant mental health challenges faced by international students. The study found that these students have a higher risk of mental health difficulties compared to the general population. Key predictors of depression identified were:
+# Analyze Students' Mental Health
+Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
 
-Social Connectedness: A sense of belonging to a social group.
-Acculturative Stress: Stress associated with adapting to a new culture.
-Objective:
-This project aims to explore and analyze student data using SQL and Python on Azure Data Studio to validate the findings of the Korean study. Additionally, the project will investigate whether the length of stay in a foreign country is a contributing factor to mental health outcomes among international students.
+The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
 
-Methodology:
-
-Data Collection: Gather comprehensive student data, including demographics, length of stay, social interactions, and mental health indicators.
-Data Analysis: Utilize SQL and Python for data extraction, transformation, and analysis.
-Exploratory Data Analysis (EDA): Perform EDA to uncover patterns and correlations.
-Statistical Analysis: Apply statistical methods to determine the significance of social connectedness and acculturative stress on mental health.
-Visualization: Create insightful visualizations to present findings clearly and effectively.
-Tools and Technologies:
-
-SQL: For data querying and manipulation.
-Python: For data analysis, statistical modeling, and visualization.
-Azure Data Studio: For integrated data management and analysis.
-Expected Outcomes:
-
-Validate whether international students face higher mental health risks compared to the general population.
-Determine the impact of social connectedness and acculturative stress on depression.
-Analyze the role of the length of stay as a contributing factor to mental health outcomes.
-Conclusion:
-This project will provide valuable insights into the mental health challenges faced by international students and contribute to developing targeted support systems to enhance their well-being.
+For this project, I will explore the `students` data using SQL and Python on Azure Data Studio to find out if we can come to a similar conclusion for international students and see if the length of stay is a contributing factor.
